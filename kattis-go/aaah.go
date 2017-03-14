@@ -8,6 +8,7 @@ func main(){
 
 	fmt.Scanln(&str1)
 	fmt.Scanln(&str2)
+	//str compare
 	if len(str1) < len(str2){
 		fmt.Println("no")
 	}else {
