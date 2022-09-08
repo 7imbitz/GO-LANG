@@ -5,6 +5,6 @@ Solutions to the [Kattis archives](https://open.kattis.com/).
 
 ## Problems
 
-| Problem | Solution | :link: |
-| - | - | - |
-| [Aaah!](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Aaah%21) | [Solution](https://github.com/7imbitz/Kattis-Solutions-Golang/tree/master/src/Aaah!) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/aaah) |
+| Solution | :link: |
+| - | - | 
+| [Solution](https://github.com/7imbitz/Kattis-Solutions-Golang/tree/master/src/Aaah!) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/aaah) |
