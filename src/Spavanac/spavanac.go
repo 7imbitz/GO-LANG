@@ -2,24 +2,9 @@ package main
 
 import "fmt"
 
-func main(){
-	var H, M, tM, tH, newH, newM int
-
-	fmt.Scan(&H, &M)
-	if H == 0 {
-		H =24
-		tH = H * 60
-		tM = tH + M
-		tM -=45
-		newH = tM / 60
-		newM = (tM - (newH * 60)) % 60
-	}else {
-		tH = H * 60
-		tM = tH + M
-		tM -=45
-		newH = tM / 60
-		newM = (tM - (newH * 60))
-	}
-
-	fmt.Println(newH, " ", newM)
+func main() {
+    var h,m int
+    fmt.Scanf("%d %d",&h,&m)
+    m = ((m+60*h-45)+1440)%1440
+    fmt.Printf("%d %d\n",m/60,m%60)
 }
