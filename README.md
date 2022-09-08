@@ -22,3 +22,10 @@ Solutions to the [Kattis archives](https://open.kattis.com/).
 | [Spavanac](https://github.com/7imbitz/Kattis-Solutions-Golang/tree/master/src/Spavanac) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/spavanac) | `1.4` Easy |
 | [Stuck In A Time Loop](https://github.com/7imbitz/Kattis-Solutions-Golang/tree/master/src/Stuck%20In%20A%20Time%20Loop) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/timeloop) | `1.4` Easy |
 | [Take Two Stones](https://github.com/7imbitz/Kattis-Solutions-Golang/tree/master/src/Take%20Two%20Stones) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/twostones) | `1.4` Easy |
+
+
+## License
+[![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+
+- **[GNU General Public License v3.0](https://github.com/7imbitz/Kattis-Solutions-Golang/blob/master/LICENSE.md)**
+- Unpublished Copyright 2022 © Adib Farhan Sayuti. All rights reserved.
